@@ -81,7 +81,6 @@ class _BoxxState extends State<Boxx> {
             content: Text(
               "We have a WINNER!!!! 🍾",
               style: Theme.of(context).textTheme.headline6,
-
             ),
           );
         },

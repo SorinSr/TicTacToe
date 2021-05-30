@@ -17,7 +17,7 @@ jobs:
         with:
           flutter-version: '2.2.0'
       - name: Setup project
-        run:  flutter pub get
+        run: flutter pub get
       - name: Format code
         working-directory: ${{env.source-directory}}
         run: flutter format -l 120 --set-exit-if-changed .
@@ -37,6 +37,6 @@ jobs:
       - name: Setup project
         run: flutter pub get
 
-      - name:  Analyze code
+      - name: Analyze code
         working-directory: ${{env.source-directory}}
         run: flutter analyze
