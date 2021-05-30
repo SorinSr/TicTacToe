@@ -26,7 +26,7 @@ class UserT {
         print(intersectionSet);
         if (intersectionSet.length == 3) {
           winVariable = true;
-          print("WINNER__________________________ " + winVariable.toString());
+          print("WINNER____________________________ " + winVariable.toString());
         }
       },
     );
