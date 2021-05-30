@@ -1,17 +1,4 @@
-# demo_app_4
+TicTacToe with animations demo App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# TicTacToe" 
+![image](https://user-images.githubusercontent.com/47916325/120116636-bbcb1780-c191-11eb-9ac4-459fb55c7cf4.png)
+![image](https://user-images.githubusercontent.com/47916325/120116673-eddc7980-c191-11eb-9d9b-ce5513c333c9.png)
